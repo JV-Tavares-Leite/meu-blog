@@ -35,19 +35,19 @@
           [
             "titulo" => "Primeira postagem",
             "data" => "10/06/2025",
-            "imagem" => "https://via.placeholder.com/700x300",
+            "imagem" => "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "conteudo" => "Este é o conteúdo da primeira postagem do blog. Bem legal, né?"
           ],
           [
             "titulo" => "Segunda postagem",
             "data" => "12/06/2025",
-            "imagem" => "https://via.placeholder.com/700x300",
+            "imagem" => "https://images.unsplash.com/photo-1601645191163-3fc0d5d64e35?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UXVhZHJpbmhvc3xlbnwwfHwwfHx8MA%3D%3D",
             "conteudo" => "Aqui vai o conteúdo da segunda postagem. Aproveite a leitura!"
           ],
           [
             "titulo" => "Terceira postagem",
             "data" => "15/06/2025",
-            "imagem" => "https://via.placeholder.com/700x300",
+            "imagem" => "https://images.unsplash.com/photo-1625535069654-cfeb8f829088?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcHV0YSVDMyVBNyVDMyVBM298ZW58MHx8MHx8fDA%3D",
             "conteudo" => "Última postagem do blog com Bootstrap e PHP!"
           ]
         ];
